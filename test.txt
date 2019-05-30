@@ -1,1 +1,6 @@
-z
+ 
+
+
+	1. 새로운 Repository 생성
+	2. 버전 관리마다 branch 생성
+	3. Read.me 파일에 바뀐내용 게시
